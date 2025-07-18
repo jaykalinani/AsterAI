@@ -2,7 +2,7 @@
 # -*- coding: utf‑8 -*-
 
 ###############################################################################
-#  one_agent_gemini.py — Tiny‑quota Gemini reviewer 
+#  single_agent_gemini.py — Tiny‑quota Gemini reviewer 
 #
 #  HOW IT WORKS (big‑picture)
 #  --------------------------

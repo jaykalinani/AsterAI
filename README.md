@@ -6,9 +6,10 @@ This repo bundles **self‑contained scripts** that use large‑language models 
 | Script | Model | Agents | Focus |
 |--------|-------|--------|-------|
 | **`test_gemini.py`** | Gemini 1.5 Flash | 1 | Minimal “send a slice & get feedback” demo |
-| **`one_agent_gemini.py`** | Gemini 1.5 Flash | 1 | Same as above but tweaked token budgets / file layout |
+| **`single_agent_gemini.py`** | Gemini 1.5 Flash | 1 | Same as above but tweaked token budgets / file layout |
 | **`multi_agent_gemini.py`** | Gemini 1.5 Flash | 3 | Two specialised reviewers + one supervisor |
 | **`test_openai.py`** | OpenAI gpt‑3.5‑turbo (free tier) | 1 | Gemini‑equivalent built on OpenAI |
+| **`prompt_refiner.py`** | Gemini 1.5 Flash | 3 | *Generates* a crystal‑clear C/C++ **debugging prompt** from a rough idea (Architect + Challenger + Supervisor) |
 
 All scripts perform the same **five‑step pipeline**:
 
