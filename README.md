@@ -84,7 +84,7 @@ review_output/
  ├─ review_chunk_00_B.md   # logic reviewer
  ├─ review_chunk_00.md     # supervisor merge  ← this is the “official” slice
  ...                       # repeats per slice
- └─ AsterX_review.md       # appears after every slice is done
+ └─ complete_review.md       # appears after every slice is done
 ```
 
 The script pauses ~70 s between slices so free accounts stay under the **3 K tokens‑per‑minute** rule.
