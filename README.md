@@ -1,4 +1,4 @@
-# AsterAI — AI‑Assisted C/C++ Code‑Review Toolkit
+# AsterAI: AI‑Assisted C/C++ Code‑Review Toolkit
 
 Welcome!  
 This repo bundles **self‑contained scripts** that use large‑language models to review real C/C++ projects:
